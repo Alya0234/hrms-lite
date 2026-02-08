@@ -9,7 +9,7 @@ function App() {
   const [empForm, setEmpForm] = useState({ employeeId: '', fullName: '', email: '', department: '' });
   const [attForm, setAttForm] = useState({ employeeId: '', date: new Date().toISOString().split('T')[0], status: 'Present' });
 
-  const API_BASE = "http://localhost:5000/api";
+  const API_BASE = "https://hrms-backend-62gd.onrender.com";
 
   const fetchData = async () => {
     try {
