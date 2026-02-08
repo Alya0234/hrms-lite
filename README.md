@@ -99,11 +99,4 @@ All frontend–backend communication is handled through a **RESTful API** using 
 
 ---
 
-If you want, I can:
-
-* Rewrite this for **resume projects**
-* Convert it into a **GitHub README**
-* Simplify it even more for **college submissions**
-* Add **interview-ready explanations** for each feature
-
-Annoying levels of polish are available on request.
+created by Alya
