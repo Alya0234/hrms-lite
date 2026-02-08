@@ -1,6 +1,4 @@
-This reads like it was written by someone trying very hard to impress a recruiter at 2 a.m. The ideas are solid. The wording just needs to calm down and sound confident instead of shouting. Here is a **clean, professional, beginner-friendly rewrite** that still looks impressive.
-
-## HRMS Pro – Smart Attendance & Workforce Manager
+ HRMS Pro – Smart Attendance & Workforce Manager
 
 HRMS Pro is a full-stack **MERN (MongoDB, Express, React, Node.js)** web application built to manage employee records and track attendance in a simple, reliable way.
 It provides a clean, responsive dashboard with real-time attendance insights and built-in data validation to avoid errors.
