@@ -9,12 +9,18 @@ function App() {
   const [activeTab, setActiveTab] = useState('dashboard');
   
   const [empForm, setEmpForm] = useState({ employeeId: '', fullName: '', email: '', department: '' });
+<<<<<<< HEAD
   const [attForm, setAttForm] = useState({ 
     employeeId: '', 
     date: new Date().toISOString().split('T')[0], 
     status: 'Present',
     remarks: '' 
   });
+=======
+  const [attForm, setAttForm] = useState({ employeeId: '', date: new Date().toISOString().split('T')[0], status: 'Present' });
+
+  const API_BASE = "https://hrms-backend-62gd.onrender.com";
+>>>>>>> f11bafcd9006af2dcea2e4778d0874873820b498
 
   const fetchData = async () => {
     try {
